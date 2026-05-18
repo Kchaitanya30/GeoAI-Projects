@@ -2,7 +2,7 @@
 
 An interactive GIS-based machine learning project that predicts auto theft and carjacking hotspot areas across Baltimore City using Random Forest classification.
 
-**[View Live Map](https://YOUR-USERNAME.github.io/baltimore-crime-hotspot-map/)**
+**[View Live Map](https://YOUR-USERNAME.github.io/baltimore_hotspot_interactive_map/)**
 
 ---
 
